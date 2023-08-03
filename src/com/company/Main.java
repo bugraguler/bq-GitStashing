@@ -8,5 +8,9 @@ public class Main {
         audi.doors = "5";
         audi.headlights = "blue";
 
+        //lets write own code
+        System.out.println("welcome the radio 88mhz");
+        System.out.println("new car with good music");
+
     }
 }
