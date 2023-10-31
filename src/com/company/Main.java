@@ -6,7 +6,7 @@ public class Main {
         audi.engineCapacity = "2000";
         audi.color = "red";
         audi.doors = "5";
-        audi.headlights = "blue";
+        audi.headlights = "mavi";
 
         //lets write own code
         System.out.println("welcome the radio 88mhz");
