@@ -10,6 +10,9 @@ public class Main {
 
         //lets write own code
         System.out.println("new car added");
+        System.out.println("new car addd");
+        System.out.println("new car adad");
+        System.out.println("new car ad");
 
     }
 }
